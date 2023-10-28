@@ -49,7 +49,7 @@
         <hr />
         <h4>BBVA:</h4>
         <p>
-          Televisiones, tablets, libros, lavadoras y mucho más...
+          
         </p>
         <hr />
       </div>
